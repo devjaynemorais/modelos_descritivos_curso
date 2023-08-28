@@ -1,0 +1,53 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+*.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.pptx
+.ipynb
+
+
+# Data files and directories
+data/
+*.xlsx
+*.pkl
+
+# Model artifacts and outputs
+models/
+*.h5
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# IDE and text editor configurations
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Python environment configuration
+pyvenv.cfg
+
+# Compiled C extensions
+*.so
+
+# Dependency directories
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/\n.gsheet
+
+.gsheet
+*.pptx
+*.ipynb
